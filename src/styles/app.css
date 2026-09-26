@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Colors and fonts are fedddev brand tokens from brand/tokens.css (see brand/BRAND.md).
+   Semantic tokens (--fd-bg, --fd-text, ...) switch with the dark/light theme. */
+
+:root {
+  /* Hairline dividers and borders - the muted text color, softened */
+  --app-divider: color-mix(in srgb, var(--fd-text-muted) 45%, transparent);
+  --app-border: color-mix(in srgb, var(--fd-text-muted) 70%, transparent);
+  /* Title bar bottom border (brand/BRAND.md §8a) - switches like tokens.css */
+  --app-titlebar-border: #264437;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --app-titlebar-border: #d3cebe;
+  }
+}
+:root[data-theme="light"] {
+  --app-titlebar-border: #d3cebe;
+}
+
+@layer components {
+  /* Single-color icon from an SVG file, painted in the current text color so it follows the theme.
+     Set the file with style="--icon: url(...)". */
+  .fd-icon {
+    display: inline-block;
+    background-color: currentColor;
+    -webkit-mask: var(--icon) center / contain no-repeat;
+    mask: var(--icon) center / contain no-repeat;
+  }
+
+  /* Links and nav items: base-colored text with a 3px accent underline on hover/focus
+     (BRAND.md §4 - light-mode accents are never text) */
+  .fd-link {
+    color: var(--fd-link);
+    text-decoration-line: none;
+    text-decoration-color: var(--fd-link-underline);
+    text-decoration-thickness: 3px;
+    text-underline-offset: 4px;
+  }
+  .fd-link:hover,
+  .fd-link:focus-visible {
+    text-decoration-line: underline;
+  }
+}
+
+@layer utilities {
+  body {
+    font-family: var(--fd-font-body);
+    background-color: var(--fd-bg);
+    color: var(--fd-text);
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--fd-font-display);
+    font-weight: 700;
+    letter-spacing: var(--fd-tracking-display);
+  }
+
+  .titlebar-border {
+    border-bottom: 1px solid var(--app-titlebar-border);
+  }
+
+  .vertical-divider {
+    box-shadow: 0rem 0rem 0rem 0.015rem var(--app-divider);
+    height: 32px;
+  }
+
+  .text-light-grey {
+    color: var(--fd-text-muted);
+  }
+
+  .white-border {
+    box-shadow: 0rem 0rem 0rem 0.1rem var(--fd-text);
+  }
+
+  .light-gray-border {
+    box-shadow: 0rem 0rem 0rem 0.1rem var(--app-border);
+  }
+
+  .medium-gray-border {
+    box-shadow: 0rem 0rem 0rem 0.1rem var(--app-divider);
+  }
+
+  .bubble-body {
+    overflow: hidden;
+    margin: 1px 0.5px 0.5px 1px;
+    background-color: var(--fd-bg);
+    border-radius: var(--fd-radius-sm);
+  }
+
+  .facility-card {
+    box-shadow: 0rem 0rem 0rem 0.01rem var(--app-border);
+    border-radius: var(--fd-radius-sm);
+  }
+
+  .hr-dark-medium-gray-solid {
+    border-top: 0.01rem solid var(--app-divider);
+    width: 100%;
+  }
+
+  .hr-light-gray-solid {
+    border-top: 0.01rem solid var(--app-border);
+    width: 100%;
+  }
+
+  .dark-medium-gray-bg {
+    background-color: var(--fd-surface);
+  }
+
+  .dark-gray-row-bg {
+    background-color: var(--fd-surface);
+  }
+
+  .ninety-opacity {
+    opacity: 0.9;
+  }
+}

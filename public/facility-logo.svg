@@ -1,0 +1,66 @@
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Facility</title>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g transform="translate(-191.000000, -351.000000)">
+      <g id="Facility-Icon-(48)" transform="translate(191.000000, 351.000000)">
+        <rect id="footprint" x="0" y="0" width="48" height="48"></rect>
+        <g id="building" transform="translate(1.300000, 5.099771)" stroke="#FFFFFF" stroke-width="0.5">
+          <line x1="16.8" y1="31.2002295" x2="19.9" y2="29.5002295" id="Path-32"></line>
+          <line x1="10.5" y1="27.7002295" x2="10.5" y2="31.2002295" id="Path-33"></line>
+          <line x1="7.3" y1="25.8002295" x2="7.4" y2="29.4002295" id="Path-34"></line>
+          <line x1="12.2" y1="28.5002295" x2="11.3" y2="29.0002295" id="Path-35" stroke-linecap="round" stroke-linejoin="round"></line>
+          <line x1="5.2" y1="25.6002295" x2="6.2" y2="25.0002295" id="Path-36" stroke-linecap="round" stroke-linejoin="round"></line>
+          <line x1="24.5" y1="26.7002295" x2="26.3" y2="25.6002295" id="Path-40" stroke-linecap="round"></line>
+          <line x1="37.3" y1="19.4002295" x2="42.2" y2="16.6002295" id="Path-41"></line>
+          <line x1="30.7" y1="23.0002295" x2="32.7" y2="21.9002295" id="Path-41-Copy"></line>
+          <line x1="16.8" y1="31.2002295" x2="12.2" y2="28.5002295" id="Path-42"></line>
+          <line x1="1.2" y1="22.4002295" x2="6.1" y2="25.0002295" id="Path-43"></line>
+          <path d="M0,15.0002295 C3.00154225,14.3237671 6.20154225,14.7904337 9.6,16.4002295 C12.9984578,18.0100253 15.6651244,20.8766919 17.6,25.0002295" id="Path-26-Copy-4" stroke-linecap="round" stroke-linejoin="round"></path>
+          <path d="M5.2,25.6002295 C6.35658637,25.5006275 7.51416213,25.7252235 8.67272727,26.2740175 C9.83129242,26.8228115 10.70705,27.7334176 11.3,29.0058357" id="Path-26-Copy-2" stroke-linecap="round"></path>
+          <path d="M6.2,24.9967448 C7.22325304,24.7661326 8.31416213,24.9252235 9.47272727,25.4740175 C10.6312924,26.0228115 11.5403833,27.0000842 12.2,28.4058357" id="Path-26-Copy-3" stroke-linecap="round" stroke-linejoin="round"></path>
+          <path d="M25.5,0.300229497 C28.5015422,-0.376232946 31.7015422,0.0904337205 35.1,1.7002295 C38.4984578,3.31002527 41.0651244,6.11002527 42.8,10.1002295" id="Path-26-Copy" stroke-linecap="round" stroke-linejoin="round"></path>
+          <line x1="0" y1="15.0002295" x2="25.5" y2="0.300229497" id="Path-28" stroke-linecap="round" stroke-linejoin="round"></line>
+          <line x1="17.6" y1="25.0002295" x2="42.8" y2="10.1002295" id="Path-27" stroke-linecap="round" stroke-linejoin="round"></line>
+          <polyline id="Path-29" stroke-linecap="round" stroke-linejoin="round" points="39.8 21.4002295 42.2 20.0002295 42.2 10.6002295"></polyline>
+          <polyline id="Path-9" points="1.2 14.8002295 1.2 25.8002295 16.8 34.8002295 20.1 32.9002295"></polyline>
+          <line x1="7.3" y1="15.5802295" x2="7.3" y2="24.9002295" id="Path-10" stroke-linecap="round" stroke-linejoin="round"></line>
+          <line x1="10.5" y1="26.1002295" x2="10.5" y2="16.9002295" id="Path-11" stroke-linecap="round" stroke-linejoin="round"></line>
+          <line x1="16.8" y1="34.8002295" x2="16.8" y2="23.5002295" id="Path-25" stroke-linecap="round" stroke-linejoin="round"></line>
+          <line x1="10.5" y1="19.2002295" x2="16.1" y2="22.4002295" id="Path-53" stroke-linecap="round"></line>
+          <line x1="2.8" y1="14.7002295" x2="7.3" y2="17.2002295" id="Path-53-Copy" stroke-linecap="round"></line>
+        </g>
+        <g id="hvac" transform="translate(21.400000, 31.500000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5">
+          <polygon id="Path-26" points="0 6.41489362 6.60804744e-14 1.84468085 3.2 2.5 3.2 3.8 6.2 5.4 7.13829787 4.38723404 9.3 4.6 9.3 11.8"></polygon>
+          <path d="M10.3382979,2.58723404 L12.5,2.8 L12.5,10 M3.2,3.71489362 L3.2,2.5 M3.2,0.0446808511 L6.3,0.7 L6.3,1.9 L8.9,3.4" id="Shape"></path>
+          <line x1="10.3" y1="2.6" x2="7.1" y2="4.4" id="Path-48"></line>
+          <line x1="6.3" y1="0.7" x2="3.1" y2="2.5" id="Path-49"></line>
+          <line x1="3.2" y1="0" x2="0" y2="1.8" id="Path-50"></line>
+          <line x1="12.5" y1="2.8" x2="9.3" y2="4.6" id="Path-47"></line>
+          <line x1="12.5" y1="10" x2="9.3" y2="11.8" id="Path-51"></line>
+          <line x1="6.3" y1="2" x2="3.2" y2="3.8" id="Path-52"></line>
+        </g>
+        <g id="hvac" transform="translate(27.700000, 27.800000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5">
+          <polyline id="Path" points="0 5.61489362 0 1.84468085 3.2 2.5 3.2 3.8 6.2 5.4 7.13829787 4.38723404 9.3 4.6 9.3 11.8 6.2010274 10.0055595"></polyline>
+          <path d="M10.3382979,2.58723404 L12.5,2.8 L12.5,10 M3.2,3.71489362 L3.2,2.5 M3.2,0.0446808511 L6.3,0.7 L6.3,1.9 L8.9,3.4" id="Shape"></path>
+          <line x1="10.3" y1="2.6" x2="7.1" y2="4.4" id="Path-48"></line>
+          <line x1="6.3" y1="0.7" x2="3.1" y2="2.5" id="Path-49"></line>
+          <line x1="3.2" y1="0" x2="0" y2="1.8" id="Path-50"></line>
+          <line x1="12.5" y1="2.8" x2="9.3" y2="4.6" id="Path-47"></line>
+          <line x1="12.5" y1="10" x2="9.3" y2="11.8" id="Path-51"></line>
+          <line x1="6.3" y1="2" x2="3.2" y2="3.8" id="Path-52"></line>
+        </g>
+        <g id="hvac" transform="translate(34.000000, 24.200000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5">
+          <polyline id="Path" points="0 5.61489362 0 1.84468085 3.2 2.5 3.2 3.8 6.2 5.4 7.13829787 4.38723404 9.3 4.6 9.3 11.8 6.2010274 10.0055595"></polyline>
+          <path d="M10.3382979,2.58723404 L12.5,2.8 L12.5,10 M3.2,3.71489362 L3.2,2.5 M3.2,0.0446808511 L6.3,0.7 L6.3,1.9 L8.9,3.4" id="Shape"></path>
+          <line x1="10.3" y1="2.6" x2="7.1" y2="4.4" id="Path-48"></line>
+          <line x1="6.3" y1="0.7" x2="3.1" y2="2.5" id="Path-49"></line>
+          <line x1="3.2" y1="0" x2="0" y2="1.8" id="Path-50"></line>
+          <line x1="12.5" y1="2.8" x2="9.3" y2="4.6" id="Path-47"></line>
+          <line x1="12.5" y1="10" x2="9.3" y2="11.8" id="Path-51"></line>
+          <line x1="6.3" y1="2" x2="3.2" y2="3.8" id="Path-52"></line>
+        </g>
+        <circle id="dot" fill="#FFFFFF" cx="10.1" cy="33.5" r="1"></circle>
+      </g>
+    </g>
+  </g>
+</svg>
