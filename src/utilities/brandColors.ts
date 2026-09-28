@@ -38,7 +38,7 @@ export const SCENE_THEMES: Record<Theme, SceneTheme> = {
 };
 
 // RPP power-feed colors encode data, so they keep their encoding in both modes (§8a) - red, blue
-// and grey feeds. (BRAND.md also suggests jungle edge lines on them; left out by the owner's choice.)
+// and grey feeds. No edge lines on them (§8a).
 export const RPP_COLORS = {
   red: HIBISCUS,
   blue: LAGOON,

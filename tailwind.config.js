@@ -28,6 +28,7 @@ export default {
           papaya: "var(--fd-papaya)",
           lagoon: "var(--fd-lagoon)",
           hibiscus: "var(--fd-hibiscus)",
+          "muted-on-fern": "var(--fd-muted-on-fern)",
         },
       },
       fontFamily: {
