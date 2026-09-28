@@ -1,0 +1,1 @@
+import{_ as r,c as o,a as s,o as t}from"./index-Do4KtNua.js";const a={},c={class:"ErrorPage"};function n(_,e){return t(),o("div",c,e[0]||(e[0]=[s("h1",null,"404",-1)]))}const d=r(a,[["render",n]]);export{d as default};
