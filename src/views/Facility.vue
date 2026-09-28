@@ -65,7 +65,6 @@ import useFloor, {
   setFloorColors,
 } from "@composables/three/useFloor";
 import { theme } from "@composables/useTheme";
-import useVectorFloor from "@composables/three/useVectorFloor"; // PROTOTYPE
 import { SCENE_THEMES } from "@/utilities/brandColors";
 import useWebGLRenderer from "@composables/three/useWebGLRenderer";
 import useRaycasting from "@composables/three/useRaycasting";
@@ -87,7 +86,6 @@ import { FacilitySpace } from "@models/facilitySpace";
 import { getFacilitySpace } from "@data/helpers/getFacilitySpace";
 import { CabinetSpace } from "@models/cabinetSpace";
 import { PodSpace } from "@/models/podSpace";
-import { publicUrl } from "@/utilities/publicUrl";
 
 export default defineComponent({
   components: {
@@ -286,20 +284,6 @@ export default defineComponent({
         if (facilityModel) {
           scene.add(facilityModel);
         }
-      }
-      // PROTOTYPE: vector floor behind ?vectorfloor
-      if (
-        facilityData?.metricDimensions &&
-        location.search.includes("vectorfloor")
-      ) {
-        const { width, depth } = facilityData.metricDimensions;
-        useVectorFloor(
-          publicUrl(`floors/${facilityData.name}-vector.json`),
-          width,
-          depth,
-          SCENE_THEMES[theme.value].floor
-        ).then((floor) => scene.add(floor));
-        return;
       }
       const floor =
         facilityData &&

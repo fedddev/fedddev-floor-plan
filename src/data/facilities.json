@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "DC01",
+    "fqln": "FD.DC01"
+  },
+  {
+    "id": 2,
+    "name": "DC02",
+    "fqln": "FD.DC02"
+  },
+  {
+    "id": 3,
+    "name": "DC03",
+    "fqln": "FD.DC03"
+  },
+  {
+    "id": 4,
+    "name": "DC04",
+    "fqln": "FD.DC04"
+  },
+  {
+    "id": 5,
+    "name": "DC05",
+    "fqln": "FD.DC05"
+  },
+  {
+    "id": 6,
+    "name": "DC06",
+    "fqln": "FD.DC06"
+  },
+  {
+    "id": 7,
+    "name": "DC07",
+    "fqln": "FD.DC07"
+  }
+]

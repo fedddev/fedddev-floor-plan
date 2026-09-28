@@ -1,0 +1,3572 @@
+[
+  {
+    "id": 11069,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.A01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      19.96666666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11070,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.A01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      21.71926666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11071,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.B01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      19.96666666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11072,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.B01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      21.71926666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11073,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.C01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      19.96666666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11074,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.C01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      21.71926666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11075,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.D01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      19.96666666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11076,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.D01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      21.71926666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11077,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.E01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      19.96666666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11078,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.E01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      21.71926666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11079,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.A02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      27.366666666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11080,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.A02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      29.119266666666668,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11081,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.B02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      27.366666666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11082,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.B02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      29.119266666666668,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11083,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.C02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      27.366666666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11084,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.C02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      29.119266666666668,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11085,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.D02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      27.366666666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11086,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.D02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      29.119266666666668,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11087,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.E02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      27.366666666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11088,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.E02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      29.119266666666668,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11089,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.A03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      34.766666666666666,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11090,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.A03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      36.51926666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11091,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.B03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      34.766666666666666,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11092,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.B03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      36.51926666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11093,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.C03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      34.766666666666666,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11094,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.C03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      36.51926666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11095,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.D03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      34.766666666666666,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11096,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.D03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      36.51926666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11097,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.E03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      34.766666666666666,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11098,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.E03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      36.51926666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11099,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.A04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      42.16666666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11100,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.A04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      43.91926666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11101,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.B04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      42.16666666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11102,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.B04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      43.91926666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11103,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.C04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      42.16666666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11104,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.C04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      43.91926666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11105,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.D04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      42.16666666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11106,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.D04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      43.91926666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11107,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.E04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      42.16666666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11108,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.E04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      43.91926666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11109,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.A05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      49.56666666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11110,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.A05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      51.31926666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11111,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.B05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      49.56666666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11112,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.B05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      51.31926666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11113,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.C05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      49.56666666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11114,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.C05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      51.31926666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11115,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.D05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      49.56666666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11116,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.D05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      51.31926666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11117,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.E05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      49.56666666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11118,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.E05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      51.31926666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11119,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.A06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      56.96666666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11120,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.A06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      58.71926666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11121,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.B06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      56.96666666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11122,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.B06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      58.71926666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11123,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.C06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      56.96666666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11124,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.C06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      58.71926666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11125,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.D06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      56.96666666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11126,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.D06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      58.71926666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11127,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.E06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      56.96666666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11128,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.E06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      58.71926666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11129,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.A07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      64.36666666666667,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11130,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.A07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      66.11926666666668,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11131,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.B07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      64.36666666666667,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11132,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.B07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      66.11926666666668,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11133,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.C07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      64.36666666666667,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11134,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.C07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      66.11926666666668,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11135,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.D07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      64.36666666666667,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11136,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.D07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      66.11926666666668,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.5,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11137,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL01.E07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      64.36666666666667,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11138,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL01.E07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      66.11926666666668,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11139,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.A01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      91.30000000000001,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11140,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.A01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      93.05260000000001,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11141,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.B01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      91.30000000000001,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11142,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.B01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      93.05260000000001,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11143,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.C01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      91.30000000000001,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11144,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.C01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      93.05260000000001,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11145,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.D01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      91.30000000000001,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11146,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.D01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      93.05260000000001,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.55,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11147,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.E01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      91.30000000000001,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11148,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.E01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      93.05260000000001,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11149,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.A02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      98.70000000000002,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11150,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.A02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      100.45260000000002,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11151,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.B02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      98.70000000000002,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11152,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.B02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      100.45260000000002,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11153,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.C02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      98.70000000000002,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.65,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11154,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.C02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      100.45260000000002,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11155,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.D02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      98.70000000000002,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11156,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.D02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      100.45260000000002,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.35,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11157,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.E02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      98.70000000000002,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11158,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.E02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      100.45260000000002,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11159,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.A03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      106.10000000000001,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.15,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11160,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.A03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      107.85260000000001,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.65,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11161,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.B03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      106.10000000000001,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11162,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.B03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      107.85260000000001,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11163,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.C03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      106.10000000000001,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11164,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.C03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      107.85260000000001,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11165,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.D03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      106.10000000000001,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11166,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.D03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      107.85260000000001,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11167,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.E03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      106.10000000000001,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11168,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.E03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      107.85260000000001,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11169,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.A04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      113.50000000000001,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11170,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.A04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      115.25260000000002,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.15,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11171,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.B04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      113.50000000000001,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11172,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.B04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      115.25260000000002,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11173,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.C04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      113.50000000000001,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11174,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.C04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      115.25260000000002,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11175,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.D04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      113.50000000000001,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.55,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11176,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.D04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      115.25260000000002,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.65,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11177,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.E04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      113.50000000000001,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11178,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.E04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      115.25260000000002,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.65,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11179,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.A05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      120.9,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11180,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.A05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      122.6526,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11181,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.B05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      120.9,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11182,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.B05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      122.6526,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11183,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.C05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      120.9,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.55,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11184,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.C05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      122.6526,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11185,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.D05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      120.9,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11186,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.D05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      122.6526,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11187,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.E05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      120.9,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11188,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.E05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      122.6526,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11189,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.A06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      128.3,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11190,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.A06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      130.0526,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.15,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11191,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.B06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      128.3,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11192,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.B06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      130.0526,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11193,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.C06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      128.3,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11194,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.C06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      130.0526,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11195,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.D06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      128.3,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11196,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.D06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      130.0526,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11197,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.E06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      128.3,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11198,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.E06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      130.0526,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11199,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.A07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      135.70000000000002,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11200,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.A07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      137.45260000000002,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.45,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11201,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.B07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      135.70000000000002,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11202,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.B07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      137.45260000000002,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11203,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.C07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      135.70000000000002,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.55,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11204,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.C07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      137.45260000000002,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.3,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11205,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.D07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      135.70000000000002,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11206,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.D07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      137.45260000000002,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.65,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11207,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL02.E07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      135.70000000000002,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11208,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL02.E07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      137.45260000000002,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.55,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11209,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.A01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      162.63333333333335,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11210,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.A01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      164.38593333333336,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11211,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.B01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      162.63333333333335,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11212,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.B01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      164.38593333333336,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11213,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.C01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      162.63333333333335,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11214,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.C01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      164.38593333333336,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11215,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.D01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      162.63333333333335,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11216,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.D01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      164.38593333333336,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11217,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.E01.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      162.63333333333335,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.55,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11218,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.E01.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      164.38593333333336,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11219,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.A02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      170.03333333333336,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11220,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.A02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      171.78593333333336,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11221,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.B02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      170.03333333333336,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11222,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.B02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      171.78593333333336,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11223,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.C02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      170.03333333333336,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11224,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.C02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      171.78593333333336,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11225,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.D02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      170.03333333333336,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11226,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.D02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      171.78593333333336,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11227,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.E02.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      170.03333333333336,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11228,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.E02.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      171.78593333333336,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11229,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.A03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      177.43333333333337,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11230,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.A03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      179.18593333333337,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11231,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.B03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      177.43333333333337,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11232,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.B03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      179.18593333333337,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.55,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11233,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.C03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      177.43333333333337,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11234,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.C03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      179.18593333333337,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11235,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.D03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      177.43333333333337,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11236,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.D03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      179.18593333333337,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11237,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.E03.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      177.43333333333337,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11238,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.E03.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      179.18593333333337,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11239,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.A04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      184.83333333333337,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11240,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.A04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      186.58593333333337,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11241,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.B04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      184.83333333333337,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11242,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.B04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      186.58593333333337,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11243,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.C04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      184.83333333333337,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11244,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.C04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      186.58593333333337,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11245,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.D04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      184.83333333333337,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11246,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.D04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      186.58593333333337,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11247,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.E04.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      184.83333333333337,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11248,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.E04.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      186.58593333333337,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11249,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.A05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      192.23333333333335,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11250,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.A05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      193.98593333333335,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11251,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.B05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      192.23333333333335,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11252,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.B05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      193.98593333333335,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11253,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.C05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      192.23333333333335,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11254,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.C05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      193.98593333333335,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11255,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.D05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      192.23333333333335,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11256,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.D05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      193.98593333333335,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11257,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.E05.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      192.23333333333335,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11258,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.E05.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      193.98593333333335,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11259,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.A06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      199.63333333333335,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11260,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.A06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      201.38593333333336,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11261,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.B06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      199.63333333333335,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11262,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.B06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      201.38593333333336,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11263,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.C06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      199.63333333333335,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11264,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.C06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      201.38593333333336,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11265,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.D06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      199.63333333333335,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11266,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.D06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      201.38593333333336,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11267,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.E06.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      199.63333333333335,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11268,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.E06.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      201.38593333333336,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11269,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.A07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      207.03333333333336,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11270,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.A07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      208.78593333333336,
+      0,
+      32.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.25,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11271,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.B07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      207.03333333333336,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11272,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.B07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      208.78593333333336,
+      0,
+      43.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11273,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.C07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      207.03333333333336,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11274,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.C07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      208.78593333333336,
+      0,
+      54.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11275,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.D07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      207.03333333333336,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.4,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11276,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.D07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      208.78593333333336,
+      0,
+      65.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11277,
+    "name": "ROW01",
+    "fqln": "FD.DC06.HALL03.E07.ROW01",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      207.03333333333336,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11278,
+    "name": "ROW02",
+    "fqln": "FD.DC06.HALL03.E07.ROW02",
+    "status": "A",
+    "positionOrder": "DESC",
+    "translation": [
+      208.78593333333336,
+      0,
+      76.10000000000001
+    ],
+    "metricDimensions": {
+      "width": 7.7,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 113,
+    "name": "HALL01",
+    "fqln": "FD.DC04.HALL01",
+    "metricArea": 3427.2000000000003,
+    "bounds": {
+      "LOWER_LEFT": [
+        38,
+        0,
+        94
+      ],
+      "LOWER_RIGHT": [
+        92.4,
+        0,
+        94
+      ],
+      "UPPER_LEFT": [
+        38,
+        0,
+        31
+      ],
+      "UPPER_RIGHT": [
+        92.4,
+        0,
+        31
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "name": "HALL02",
+    "fqln": "FD.DC04.HALL02",
+    "metricArea": 3427.2000000000003,
+    "bounds": {
+      "LOWER_LEFT": [
+        92.4,
+        0,
+        94
+      ],
+      "LOWER_RIGHT": [
+        146.8,
+        0,
+        94
+      ],
+      "UPPER_LEFT": [
+        92.4,
+        0,
+        31
+      ],
+      "UPPER_RIGHT": [
+        146.8,
+        0,
+        31
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "name": "HALL03",
+    "fqln": "FD.DC04.HALL03",
+    "metricArea": 3427.2000000000003,
+    "bounds": {
+      "LOWER_LEFT": [
+        146.8,
+        0,
+        94
+      ],
+      "LOWER_RIGHT": [
+        201.20000000000002,
+        0,
+        94
+      ],
+      "UPPER_LEFT": [
+        146.8,
+        0,
+        31
+      ],
+      "UPPER_RIGHT": [
+        201.20000000000002,
+        0,
+        31
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "name": "HALL04",
+    "fqln": "FD.DC04.HALL04",
+    "metricArea": 3427.2000000000003,
+    "bounds": {
+      "LOWER_LEFT": [
+        201.2,
+        0,
+        94
+      ],
+      "LOWER_RIGHT": [
+        255.6,
+        0,
+        94
+      ],
+      "UPPER_LEFT": [
+        201.2,
+        0,
+        31
+      ],
+      "UPPER_RIGHT": [
+        255.6,
+        0,
+        31
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "name": "HALL05",
+    "fqln": "FD.DC04.HALL05",
+    "metricArea": 3427.2000000000003,
+    "bounds": {
+      "LOWER_LEFT": [
+        255.6,
+        0,
+        94
+      ],
+      "LOWER_RIGHT": [
+        310,
+        0,
+        94
+      ],
+      "UPPER_LEFT": [
+        255.6,
+        0,
+        31
+      ],
+      "UPPER_RIGHT": [
+        310,
+        0,
+        31
+      ]
+    }
+  }
+]

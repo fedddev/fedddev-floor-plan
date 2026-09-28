@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "name": "DC06",
+  "fqln": "FD.DC06",
+  "metricDimensions": {
+    "width": 280,
+    "height": 30,
+    "depth": 130
+  }
+}

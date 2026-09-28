@@ -1,0 +1,226 @@
+[
+  {
+    "id": 125,
+    "name": "HALL01",
+    "fqln": "FD.DC07.HALL01",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        36,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        98,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        36,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        98,
+        0,
+        33
+      ]
+    }
+  },
+  {
+    "id": 126,
+    "name": "HALL02",
+    "fqln": "FD.DC07.HALL02",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        98,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        160,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        98,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        160,
+        0,
+        33
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "name": "HALL03",
+    "fqln": "FD.DC07.HALL03",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        160,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        222,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        160,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        222,
+        0,
+        33
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "name": "HALL04",
+    "fqln": "FD.DC07.HALL04",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        222,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        284,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        222,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        284,
+        0,
+        33
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "name": "HALL05",
+    "fqln": "FD.DC07.HALL05",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        316,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        378,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        316,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        378,
+        0,
+        33
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "name": "HALL06",
+    "fqln": "FD.DC07.HALL06",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        378,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        440,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        378,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        440,
+        0,
+        33
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "name": "HALL07",
+    "fqln": "FD.DC07.HALL07",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        440,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        502,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        440,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        502,
+        0,
+        33
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "name": "HALL08",
+    "fqln": "FD.DC07.HALL08",
+    "metricArea": 4278,
+    "bounds": {
+      "LOWER_LEFT": [
+        502,
+        0,
+        102
+      ],
+      "LOWER_RIGHT": [
+        564,
+        0,
+        102
+      ],
+      "UPPER_LEFT": [
+        502,
+        0,
+        33
+      ],
+      "UPPER_RIGHT": [
+        564,
+        0,
+        33
+      ]
+    }
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Standard 42U",
+    "description": "600 x 1200 mm",
+    "metricDimensions": {
+      "width": 0.6,
+      "height": 1.991,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 2,
+    "name": "Standard 48U",
+    "description": "600 x 1200 mm",
+    "metricDimensions": {
+      "width": 0.6,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tall 52U",
+    "description": "600 x 1200 mm",
+    "metricDimensions": {
+      "width": 0.6,
+      "height": 2.436,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 4,
+    "name": "Wide 42U",
+    "description": "750 x 1200 mm",
+    "metricDimensions": {
+      "width": 0.75,
+      "height": 1.991,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 5,
+    "name": "Wide 48U",
+    "description": "750 x 1200 mm",
+    "metricDimensions": {
+      "width": 0.75,
+      "height": 2.258,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 6,
+    "name": "Network 45U",
+    "description": "800 x 1200 mm",
+    "metricDimensions": {
+      "width": 0.8,
+      "height": 2.125,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 7,
+    "name": "Storage 42U",
+    "description": "600 x 1100 mm",
+    "metricDimensions": {
+      "width": 0.6,
+      "height": 1.991,
+      "depth": 1.1
+    }
+  },
+  {
+    "id": 10,
+    "name": "RPP - A Feed",
+    "description": "Remote power panel, A feed",
+    "metricDimensions": {
+      "width": 0.6,
+      "height": 1.991,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 11,
+    "name": "RPP - B Feed",
+    "description": "Remote power panel, B feed",
+    "metricDimensions": {
+      "width": 0.6,
+      "height": 1.991,
+      "depth": 1.2
+    }
+  },
+  {
+    "id": 12,
+    "name": "RPP - C Feed",
+    "description": "Remote power panel, C feed",
+    "metricDimensions": {
+      "width": 0.6,
+      "height": 1.991,
+      "depth": 1.2
+    }
+  }
+]

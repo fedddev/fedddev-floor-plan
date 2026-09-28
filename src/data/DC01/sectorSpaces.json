@@ -1,0 +1,58 @@
+[
+  {
+    "id": 101,
+    "name": "HALL01",
+    "fqln": "FD.DC01.HALL01",
+    "metricArea": 2805,
+    "bounds": {
+      "LOWER_LEFT": [
+        62,
+        0,
+        80
+      ],
+      "LOWER_RIGHT": [
+        117,
+        0,
+        80
+      ],
+      "UPPER_LEFT": [
+        62,
+        0,
+        29
+      ],
+      "UPPER_RIGHT": [
+        117,
+        0,
+        29
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "name": "HALL02",
+    "fqln": "FD.DC01.HALL02",
+    "metricArea": 2805,
+    "bounds": {
+      "LOWER_LEFT": [
+        117,
+        0,
+        80
+      ],
+      "LOWER_RIGHT": [
+        172,
+        0,
+        80
+      ],
+      "UPPER_LEFT": [
+        117,
+        0,
+        29
+      ],
+      "UPPER_RIGHT": [
+        172,
+        0,
+        29
+      ]
+    }
+  }
+]

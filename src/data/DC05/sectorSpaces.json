@@ -1,0 +1,114 @@
+[
+  {
+    "id": 118,
+    "name": "HALL01",
+    "fqln": "FD.DC05.HALL01",
+    "metricArea": 3175.5,
+    "bounds": {
+      "LOWER_LEFT": [
+        34,
+        0,
+        82.5
+      ],
+      "LOWER_RIGHT": [
+        107,
+        0,
+        82.5
+      ],
+      "UPPER_LEFT": [
+        34,
+        0,
+        39
+      ],
+      "UPPER_RIGHT": [
+        107,
+        0,
+        39
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "name": "HALL02",
+    "fqln": "FD.DC05.HALL02",
+    "metricArea": 3175.5,
+    "bounds": {
+      "LOWER_LEFT": [
+        34,
+        0,
+        131
+      ],
+      "LOWER_RIGHT": [
+        107,
+        0,
+        131
+      ],
+      "UPPER_LEFT": [
+        34,
+        0,
+        87.5
+      ],
+      "UPPER_RIGHT": [
+        107,
+        0,
+        87.5
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "name": "HALL03",
+    "fqln": "FD.DC05.HALL03",
+    "metricArea": 3175.5,
+    "bounds": {
+      "LOWER_LEFT": [
+        133,
+        0,
+        82.5
+      ],
+      "LOWER_RIGHT": [
+        206,
+        0,
+        82.5
+      ],
+      "UPPER_LEFT": [
+        133,
+        0,
+        39
+      ],
+      "UPPER_RIGHT": [
+        206,
+        0,
+        39
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "name": "HALL04",
+    "fqln": "FD.DC05.HALL04",
+    "metricArea": 3175.5,
+    "bounds": {
+      "LOWER_LEFT": [
+        133,
+        0,
+        131
+      ],
+      "LOWER_RIGHT": [
+        206,
+        0,
+        131
+      ],
+      "UPPER_LEFT": [
+        133,
+        0,
+        87.5
+      ],
+      "UPPER_RIGHT": [
+        206,
+        0,
+        87.5
+      ]
+    }
+  }
+]

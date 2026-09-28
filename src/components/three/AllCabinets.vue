@@ -65,7 +65,7 @@ export default defineComponent({
     const metricDimensionsAR3300: number[] = [0.599948, 1.991106, 1.199896];
     function cabinetScale(cab: CabinetSpace): Vector3 {
       /*
-       *   All cabinet scaling is based on the AR3300, currently the most used cabinet type - as of 12/1/2020
+       *   All cabinet scaling is based on the cabinet glTF's size (a 600 x 1200 mm, 42U cabinet)
        *   The metricDimensionsAR3300 are all set to scale "1 1 1"
        *   The width, height, and depth of the current cabinet are divided by the corresponding metricDimensionsAR3300
        *   The result gives us the scale of the cabinet
@@ -107,10 +107,10 @@ export default defineComponent({
         // Color role per cabinet, decided once so every part of a cabinet matches
         cabinetRoles = cabinetsRef.value.map((cabinet) => {
           if (getCabinetStatus() !== "R") return null;
-          // RPP color type
-          if (cabinet.type.id === 58) return "red";
-          if (cabinet.type.id === 59) return "blue";
-          if (cabinet.type.id === 60) return "grey";
+          // RPP color type (ids from src/data/cabinetTypes.json)
+          if (cabinet.type.id === 10) return "red";
+          if (cabinet.type.id === 11) return "blue";
+          if (cabinet.type.id === 12) return "grey";
           return null;
         });
         // This version traverses the glTF for its children.
